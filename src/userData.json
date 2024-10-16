@@ -1,0 +1,54 @@
+{
+    "details": {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@example.com",
+      "phoneNumber": "123-456-7890",
+      "degree": "Bachelor of Science in Computer Science",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "linkedinUrl": "https://www.linkedin.com/in/johndoe",
+      "githubUrl": "https://github.com/johndoe",
+      "portfolioUrl": "https://johndoe.com"
+    },
+    "workExperiences": [
+      {
+        "id": 1,
+        "jobTitle": "Software Engineer",
+        "companyName": "Tech Corp",
+        "startDate": "2020-01",
+        "endDate": "2023-06",
+        "stillWorking": false,
+        "location": "San Francisco, CA",
+        "description": "Developed and maintained web applications...",
+        "skills": ["JavaScript", "React", "Node.js"]
+      }
+    ],
+    "educationExperiences": [
+      {
+        "id": 1,
+        "collegeName": "University of Technology",
+        "courseName": "Computer Science",
+        "field": "Software Engineering",
+        "startDate": "2016-09",
+        "endDate": "2020-05",
+        "stillStudying": false,
+        "location": "New York, NY",
+        "grade": "3.8 GPA"
+      }
+    ],
+    "projectExperiences": [
+      {
+        "id": 1,
+        "projectName": "Personal Portfolio Website",
+        "startDate": "2022-03",
+        "endDate": "2022-05",
+        "stillWorking": false,
+        "description": "Designed and developed a personal portfolio website...",
+        "skills": ["HTML", "CSS", "JavaScript", "React"],
+        "gitUrl": "https://github.com/johndoe/portfolio",
+        "hostUrl": "https://johndoe.com"
+      }
+    ]
+  }
